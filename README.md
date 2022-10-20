@@ -11,8 +11,15 @@
 - ⚡ Fun fact: ...
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+
+<a href="https://twitter.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="50" height="50"/> </a>
+
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
