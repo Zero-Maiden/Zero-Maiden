@@ -1,8 +1,3 @@
-<!--
-### Hi there 👋
-
-- 🌱 I’m currently learning C/C++, C#, Python, Java, JavaScript, HTML, CSS!
--->
 <h1 align="center">Hi, I'm Sky</h1>
 <h3 align="center">A curious person from Earth</h3>
 
@@ -54,6 +49,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 
 </p>
+
+<!--
+### Hi there 👋
+-->
 
 <!--
 **Starry-Sky-You/Starry-Sky-You** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
