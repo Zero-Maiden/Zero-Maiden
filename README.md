@@ -18,7 +18,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" width="50" height="50"/> </a>
 
 <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
-<img src="https://commons.wikimedia.org/wiki/File:Youtube_logo.png" alt="twitter" width="50" height="50"/> </a>
+<img src="https://commons.wikimedia.org/wiki/File:YouTube_full-color_icon_(2017).svg" alt="twitter" width="50" height="50"/> </a>
 
 </p>
 
