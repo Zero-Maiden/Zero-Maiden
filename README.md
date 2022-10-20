@@ -15,7 +15,7 @@
 <p align="left">
 
 <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" width="50" height="50"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="twitter" width="50" height="50"/> </a>
 
 </p>
 
