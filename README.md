@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm ???!</h1>
-<h3 align="center">A random person on the internet!</h3>
+<h1 align="center">???</h1>
+<h3 align="center">???</h3>
 
 - 🔭 I’m currently working on Lorem ipsum
 - 🌱 I’m currently learning Lorem ipsum
