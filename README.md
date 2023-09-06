@@ -17,7 +17,7 @@
 <p align="left">
 
 <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-<img src="https://en.wikipedia.org/wiki/Twitter#/media/File:Logo_of_Twitter.svg" alt="twitter" width="50" height="50"/> </a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" width="50" height="50"/> </a>
 
 <a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Youtube_circle.svg" alt="youtube" width="50" height="50"/> </a>
