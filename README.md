@@ -1,6 +1,7 @@
-<h1 align="center">???</h1>
-<h3 align="center">???</h3>
+<h1 align="center">Greetings...</h1>
+<h3 align="center">Who am I?</h3>
 
+<!--
 - 🔭 I’m currently working on Lorem ipsum
 - 🌱 I’m currently learning Lorem ipsum
 - 👯 I’m looking to collaborate on Lorem ipsum
@@ -9,6 +10,7 @@
 - 📫 How to reach me: Lorem ipsum
 - 😄 Pronouns: Lorem ipsum
 - ⚡ Fun fact: Lorem ipsum
+-->
 
 <h3 align="left">Connect with me:</h3>
 
