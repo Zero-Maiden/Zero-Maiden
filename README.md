@@ -1,70 +1,39 @@
-<h1 align="center">Greetings...</h1>
-<h3 align="center">Who am I?</h3>
+<h1 align="center">
+  Hi there, I'm <a href="https://github.com/Zero-Maiden">Albert Liem</a>
+</h1>
+As a hermit, I like to do a little bit of everything to keep myself from being bored. I have many dreams but so little time. My long-term goal is to make games for the world. Currently, I'm involved in full-stack web development.
 
-<!--
-- 🔭 I’m currently working on Lorem ipsum
-- 🌱 I’m currently learning Lorem ipsum
-- 👯 I’m looking to collaborate on Lorem ipsum
-- 🤔 I’m looking for help with Lorem ipsum
-- 💬 Ask me about Lorem ipsum
-- 📫 How to reach me: Lorem ipsum
-- 😄 Pronouns: Lorem ipsum
-- ⚡ Fun fact: Lorem ipsum
--->
+## 🛠️ Technologies & Tools
+### Front-end Development
+* [React](https://github.com/facebook/react) + [Next.js](https://github.com/vercel/next.js/)
+* [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), [Sass](https://github.com/sass/sass), [CSS Modules](https://github.com/css-modules/css-modules)
+### Animation Frameworks
+* [GreenSock Animation Platform (GSAP)](https://gsap.com/)
+* [three.js](https://github.com/mrdoob/three.js/) + [react-three-fiber (R3F)](https://github.com/pmndrs/react-three-fiber)
+* [Framer Motion](https://github.com/framer/motion)
+### UI Libraries
+* [shadcn/ui](https://github.com/shadcn-ui/ui)
+### Back-end Development
+* [Flask](https://github.com/pallets/flask) (Python)
+* [Laravel](https://github.com/laravel/laravel) (PHP)
+### Databases
+* [PostgreSQL](https://www.postgresql.org/)
+* [Microsoft SQL Server](https://www.microsoft.com/sql-server)
+* [MySQL](https://www.mysql.com/) & [Maria DB](https://github.com/MariaDB/server)
+* [MongoDB](https://github.com/mongodb/mongo)
+### Languages
+* C/C++ (currently learning)
+* Python
+* JavaScript & JSX
+* TypeScript & TSX
+* Java
 
-<h3 align="left">Connect with me:</h3>
+## 🎨 Hobbies & Interests
+I usually spend my free time on:
+* **2D/3D**: Working on 2D designs with [Adobe](https://www.adobe.com/) applications and 3D projects using tools like [Blender](https://www.blender.org/), [ZBrush](https://www.maxon.net/zbrush), and [Maya](https://www.autodesk.com/products/maya/overview).
+* **Game Development**: Exploring and learning both [Unreal Engine](https://www.unrealengine.com/) and [Unity](https://unity.com/).
+* **Audio Production**: Creating and learning audio production with [FL Studio](https://www.image-line.com/) and [REAPER](https://www.reaper.fm/), using tools like [Wwise](https://www.audiokinetic.com/) or [FMOD](https://www.fmod.com/).
 
-<p align="left">
-
-<a href="https://twitter.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="twitter" width="50" height="50"/> </a>
-
-<a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Youtube_circle.svg" alt="youtube" width="50" height="50"/> </a>
-
+<p align="center">
+  ❤️ Thank you for visiting my GitHub profile! I appreciate it! ❤️
 </p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
-
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-
-</p>
-
-<!--
-### Hi there 👋
--->
-
-<!--
-**Starry-Sky-You/Starry-Sky-You** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Lorem ipsum
-- 🌱 I’m currently learning Lorem ipsum
-- 👯 I’m looking to collaborate on Lorem ipsum
-- 🤔 I’m looking for help with Lorem ipsum
-- 💬 Ask me about Lorem ipsum
-- 📫 How to reach me: Lorem ipsum
-- 😄 Pronouns: Lorem ipsum
-- ⚡ Fun fact: Lorem ipsum
--->
