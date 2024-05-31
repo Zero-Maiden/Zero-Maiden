@@ -14,6 +14,7 @@ As a hermit, I like to do a little bit of everything to keep myself from being b
 ### UI Libraries
 * [shadcn/ui](https://github.com/shadcn-ui/ui)
 ### Back-end Development
+* [Node.js](https://github.com/nodejs/node)
 * [Flask](https://github.com/pallets/flask) (Python)
 * [Laravel](https://github.com/laravel/laravel) (PHP)
 ### Databases
