@@ -1,7 +1,10 @@
 <h1 align="center">
   Hi there, I'm <a href="https://github.com/Zero-Maiden">Albert Liem</a>
 </h1>
-As a hermit, I like to do a little bit of everything to keep myself from being bored. I have many dreams but so little time. My long-term goal is to make games for the world. Currently, I'm involved in full-stack web development.
+
+I like to do a little bit of everything to keep myself from being bored as a hobby. I have many dreams but so little time. My long-term goal is to make significant contributions to the field of technology. I am particularly interested in enhancing my expertise in full-stack web development, with a focus on cloud technologies. Currently, I'm involved in full-stack web development.
+
+
 
 ## 🛠️ Technologies & Tools
 ### Front-end Development
