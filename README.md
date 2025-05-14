@@ -22,8 +22,8 @@ I like to do a little bit of everything to keep myself from being bored as a hob
 * [Laravel](https://github.com/laravel/laravel) (PHP)
 ### Databases
 * [PostgreSQL](https://www.postgresql.org/)
-* [Microsoft SQL Server](https://www.microsoft.com/sql-server)
-* [MySQL](https://www.mysql.com/) & [Maria DB](https://github.com/MariaDB/server)
+* [MySQL](https://www.mysql.com/)
+* [Maria DB](https://github.com/MariaDB/server)
 * [MongoDB](https://github.com/mongodb/mongo)
 ### Languages
 * Python
