@@ -13,7 +13,7 @@ I like to do a little bit of everything to keep myself from being bored as a hob
 ### Animation Frameworks
 * [GreenSock Animation Platform (GSAP)](https://gsap.com/)
 * [three.js](https://github.com/mrdoob/three.js/) + [react-three-fiber (R3F)](https://github.com/pmndrs/react-three-fiber)
-* [Framer Motion](https://github.com/framer/motion)
+* [Motion (formerly Framer Motion)](https://github.com/framer/motion)
 ### UI Libraries
 * [shadcn/ui](https://github.com/shadcn-ui/ui)
 ### Back-end Development
