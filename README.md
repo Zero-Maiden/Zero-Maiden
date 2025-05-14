@@ -12,8 +12,8 @@ I like to do a little bit of everything to keep myself from being bored as a hob
 * [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), [Sass](https://github.com/sass/sass), [CSS Modules](https://github.com/css-modules/css-modules)
 ### Animation Frameworks
 * [GreenSock Animation Platform (GSAP)](https://gsap.com/)
+* [Motion (formerly Framer Motion)](https://github.com/motiondivision/motion)
 * [three.js](https://github.com/mrdoob/three.js/) + [react-three-fiber (R3F)](https://github.com/pmndrs/react-three-fiber)
-* [Motion (formerly Framer Motion)](https://github.com/framer/motion)
 ### UI Libraries
 * [shadcn/ui](https://github.com/shadcn-ui/ui)
 ### Back-end Development
