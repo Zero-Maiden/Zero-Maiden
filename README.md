@@ -17,9 +17,10 @@ I like to do a little bit of everything to keep myself from being bored as a hob
 ### UI Libraries
 * [shadcn/ui](https://github.com/shadcn-ui/ui)
 ### Back-end Development
-* [Node.js](https://github.com/nodejs/node)
 * [Flask](https://github.com/pallets/flask) (Python)
+* [Spring Boot (Java)](https://spring.io/projects/spring-boot)
 * [Laravel](https://github.com/laravel/laravel) (PHP)
+* [Node.js](https://github.com/nodejs/node)
 ### Databases
 * [PostgreSQL](https://www.postgresql.org/)
 * [MySQL](https://www.mysql.com/)
