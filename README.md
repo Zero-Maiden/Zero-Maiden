@@ -18,7 +18,7 @@ I like to do a little bit of everything to keep myself from being bored as a hob
 * [shadcn/ui](https://github.com/shadcn-ui/ui)
 ### Back-end Development
 * [Flask](https://github.com/pallets/flask) (Python)
-* [Spring Boot (Java)](https://spring.io/projects/spring-boot)
+* [Spring Boot](https://spring.io/projects/spring-boot) (Java)
 * [Laravel](https://github.com/laravel/laravel) (PHP)
 * [Node.js](https://github.com/nodejs/node)
 ### Databases
