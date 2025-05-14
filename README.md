@@ -26,11 +26,11 @@ I like to do a little bit of everything to keep myself from being bored as a hob
 * [MySQL](https://www.mysql.com/) & [Maria DB](https://github.com/MariaDB/server)
 * [MongoDB](https://github.com/mongodb/mongo)
 ### Languages
-* C/C++ (currently learning)
 * Python
-* JavaScript & JSX
-* TypeScript & TSX
 * Java
+* JS/JSX
+* TS/TSX
+* C/C++
 
 ## 🎨 Hobbies & Interests
 I usually spend my free time on:
